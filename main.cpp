@@ -23,6 +23,7 @@ int main()
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
     delete[] b;
+    std::cout << "A kód lényege hogy a számokat 1-100-ig megduplázza, ezeket összeadja és átlagolja őket";
     return 0;
     
 }
