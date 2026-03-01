@@ -24,5 +24,5 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     delete[] b;
     return 0;
-    //A végén nincs memória felszabadítás
+    
 }
